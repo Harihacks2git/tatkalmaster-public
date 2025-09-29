@@ -35,18 +35,16 @@ Step 2 : modify the passengers.txt. Maintain it like a csv format separating by 
          ex:(for SL)
          Hari,20,M,Upper
          Shakthi,20,M
-         ![alt text](passengers.png)
+![alt text](passengers.png)
 
 Step 3(optional): modify the config.txt 
                   If you want your mobile number to be filled in booking process, just fill only your mobile no in the first line
                   with no extra spaces or special charecters
                   Else
                   leave the config.txt empty(without any spaces or tabs)
-
          ![alt text](config.png)
          
 Step 4: Double click the TatkalMaster.exe, you'll see the application icon in the taskbar's notification overflow
-
         ![alt text](image.png)
 
 
