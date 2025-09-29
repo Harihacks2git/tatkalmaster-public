@@ -56,6 +56,7 @@ Step 8: Now exit the application by Right clicking the application and exit the 
 In case of any restart of the application, Press Ctrl + ' from the Keyboard. It'll restart the entire application.
 
 Demo Booking:
+
 [![Watch Demo](https://img.youtube.com/vi/EL2zz7nI0PU/0.jpg)](https://www.youtube.com/watch?v=EL2zz7nI0PU)
 
 
