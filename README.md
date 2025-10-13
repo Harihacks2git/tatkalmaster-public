@@ -15,25 +15,25 @@ Step 2 : modify the passengers.txt. Maintain it like a csv format separating by 
 
          If you want to add berth preferences like WindowSide, Lower,Middle,Upper, fill the details in this format type exactly form the preference list
          Preference list
-         'Window Side'(only for second sitting(2S) trains)
-         'Lower'
-         'Middle'
-         'Upper'
-         'Side Lower'
-         'Side Upper'
+         'Window Side' - 'WS'(only for second sitting(2S) trains)
+         'Lower' - 'LB'
+         'Middle' - 'MB'
+         'Upper' - 'UB'
+         'Side Lower' - 'SL'
+         'Side Upper' - 'SU'
 
          Format:(if a passenger doesn't need preference leave the 4th field empty)!No extra spaces should be given at any fields after commas
          Name1,age1,gender1(M or F),Preference1
          Name2,age2,gender2(M or F),Preference2
 
          ex:(for 2S)
-         HARI,20,M,Window Side
+         HARI,20,M,WS
          Shakthi,20,M
-         Karthi,20,M,Window Side
+         Karthi,20,M,WS
          Subash,20,M
 
          ex:(for SL)
-         Hari,20,M,Upper
+         Hari,20,M,UB
          Shakthi,20,M
 ![alt text](passengers.png)
 
@@ -56,7 +56,7 @@ Step 7: After Reaching the payment page, press Alt + Enter from keyboard, It'll 
 
 Step 8: Now exit the application by Right clicking the application and exit the script.
 
-In case of any restart of the application, Press Ctrl + ' from the Keyboard. It'll restart the entire application.
+In case of any failure or restart of the application, Press Ctrl + ' from the Keyboard. It'll restart the entire application.
 
 Demo Booking:
 
